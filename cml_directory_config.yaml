@@ -1,0 +1,8 @@
+#
+# Config -----------------------------------------------------------------------
+#
+
+# Path where the mpr files are located
+# This path is used by MAIN
+
+path_cml_folder: 'C:\Users\JohnDoe\Directory_where_you_have_mpr_files'

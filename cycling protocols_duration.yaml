@@ -1,0 +1,8 @@
+# This configuration file contains the duration (in seconds) and names of different
+# cycling protocols used in CML. If the duration changes or a new cycling protocol is 
+# added, you can use this file to do changes. This file is read by main.py
+#
+
+Formation-Capacity-Check: 144000
+Cycle-Life: 3600
+FC-DCIR-Rate: 270000
